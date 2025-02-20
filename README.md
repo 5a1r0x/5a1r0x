@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @5a1r0x
+- 🖥️ Computer Enthusiast
+- 🎂 16 Years Old
