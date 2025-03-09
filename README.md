@@ -1,3 +1,6 @@
-- 👋 Hi, I’m @5a1r0x
-- 🖥️ Computer Enthusiast
-- 🎂 16 Years Old
+🚀 | Esploratore di Codice & Software Hacker  
+🎂 | 16 anni
+
+🌐 | Appassionato di hacking, sviluppo software e reverse engineering
+
+💻 | Sistemi Operativi • `Windows` `Linux` 
