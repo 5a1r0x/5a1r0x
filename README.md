@@ -1,6 +1,5 @@
-🚀 | Esploratore di Codice & Software Hacker  
-🎂 | 16 anni
+🚀 • Passionate about Hacking, Software Development and Cyber Security
 
-🌐 | Appassionato di hacking, sviluppo software e reverse engineering
+💻 • `Windows` `Linux`
 
-💻 | Sistemi Operativi • `Windows` `Linux` 
+🌎 • `Italy`
