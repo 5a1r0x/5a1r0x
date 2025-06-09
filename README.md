@@ -14,7 +14,7 @@ I'm a 16-year-old student from Italy with a strong interest in **Cybersecurity**
 
 ## 🚀 Passions
 
-- **Cybersecurity** – Understanding and securing systems.
+- **Cyber Security** – Understanding and securing systems.
 - **Software Development** – Writing useful and clean code.
 - **Ethical Hacking** – Learning how to break things to protect them.
 
