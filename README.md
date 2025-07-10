@@ -1,4 +1,4 @@
-# 5a1r0x
+# 👤 5a1r0x
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
@@ -6,13 +6,13 @@
 
 ---
 
-## 👤 About Me
+## About Me
 
 I'm a 16-year-old student from Italy with a strong interest in **Cybersecurity**, **Software Development**, and **Ethical Hacking**. I explore technology with curiosity and a focus on learning and responsibility.
 
 ---
 
-## 🚀 Passions
+## Passions
 
 - **Cyber Security** – Understanding and securing systems.
 - **Software Development** – Writing useful and clean code.
@@ -20,7 +20,7 @@ I'm a 16-year-old student from Italy with a strong interest in **Cybersecurity**
 
 ---
 
-## 🧠 Knowledge
+## Knowledge
 
 - Programming fundamentals
 - Computer science basics
@@ -29,7 +29,7 @@ I'm a 16-year-old student from Italy with a strong interest in **Cybersecurity**
 
 ---
 
-## 🎯 Goals
+## Goals
 
 - Deepen my cybersecurity expertise
 - Learn penetration testing methodologies
