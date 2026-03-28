@@ -8,7 +8,7 @@
 
 ## About Me
 
-I'm a 16-year-old student from Italy with a strong interest in **Cybersecurity**, **Software Development**, and **Ethical Hacking**. I explore technology with curiosity and a focus on learning and responsibility.
+Just a student with a strong interest in **Cybersecurity**, **Software Development**, and **Ethical Hacking**. I explore technology with curiosity and a focus on learning and responsibility.
 
 ---
 
